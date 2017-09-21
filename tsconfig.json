@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "removeComments": false,
+        "experimentalDecorators": true,
+        "sourceMap": false,
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "target": "es2017",
+        "module": "commonjs",
+        "outDir": "dist"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "token": "YOUR BOT TOKEN",
+    "owner": "YOUR USER ID",
+    "prefix": "YOUR BOT'S DESIRED PREFIX",
+    "MAC_ADDRESS": "YOUR PC'S MAC ADDRESS"
+}

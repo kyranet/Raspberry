@@ -1,0 +1,17 @@
+{
+  "name": "raspberry",
+  "version": "1.0.0",
+  "description": "Private Bot, Wake on Lan device.",
+  "main": "raspberry.js",
+  "scripts": {
+    "test": "npx tslint --fix 'src/*.ts'",
+    "build": "tsc --project ./",
+    "install": "tsc --project ./",
+    "start": "node dist/raspberry"
+  },
+  "author": "kyraNET",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js#master"
+  }
+}
